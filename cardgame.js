@@ -1,5 +1,5 @@
 
-// A Card Game Challenge (Pizza Party Royale) for Shoelace
+// A Card Game Challenge (Pizza Party Royale)
 // By Tyn!
 
 /* Assumptions:
